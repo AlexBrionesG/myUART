@@ -1,0 +1,11 @@
+myUART.qpf
+myUART.qsf
+myUART.qws
+myUART.v.bak
+db/
+incremental_db/
+output_files/
+simulationTX/
+fullUART/
+myUART_RX.v.bak
+myUART_TX.v.bak
